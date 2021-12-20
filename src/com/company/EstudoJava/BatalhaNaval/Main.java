@@ -277,7 +277,7 @@ public class Main {
 
         }while (jogoAtivo);
 
-        //sc.close();
+        sc.close();
 
 
 
